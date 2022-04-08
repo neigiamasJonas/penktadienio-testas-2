@@ -1,0 +1,16 @@
+{
+  "name": "penktadienio-testas-2",
+  "version": "1.0.0",
+  "description": "Penktadienio JS testas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./js/penktadienio-testas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Povilas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
